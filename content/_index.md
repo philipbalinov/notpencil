@@ -9,7 +9,7 @@ header_use_video: false
 header_logo: "images/pasteli.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Посредничесто за трафик на хора и наркотици"
+header_headline: "Шарено пространство за деца и родители"
 header_subheadline: "<b>Вашият</b> консултант и <b>наръчник</b> за отглеждане на деца"
 
 # Add a 'Go back to top' item to the navigation menu
