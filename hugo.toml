@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Пастели БеГе - Най-големият производител на канцерогенни пастели на Балканския полуостров"
+title = "Пастели - шарено пространство за деца и възрастни"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -38,7 +38,7 @@ title = "Пастели БеГе - Най-големият производит�
     title = "Пастели"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Шарено пространство за малки и големи"
+    description = "Шарено пространство за деца и родители"
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
@@ -59,5 +59,5 @@ title = "Пастели БеГе - Най-големият производит�
         keywords = "пастели, детски клуб, рожден ден, юбилей, погача, питка, прощапулник, кърмене, bareboot, босоходене, босо ходене, ранно детско развитие"
 
     [params.contact]
-        email = "mail@pasteli.bg"
-        phone = "+369 898766855"
+        email = "club.pasteli@gmail.com"
+        phone = "+359 878766855"
