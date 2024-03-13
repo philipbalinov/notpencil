@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Пастели - шарено пространство за деца и възрастни"
+title = "Пастели - Пространство за деца и възрастни"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
