@@ -2,7 +2,7 @@
   /* === Cover / Landing area === */
   --cover-text-color: #37501a;
   /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
-  --highlight: #86c440;
+  --highlight: #99a48c;
   --highlight-contrast: var(--cover-text-color);
   /*iverse colors used for :hover */
   --highlight-inverse: var(--cover-text-color);
@@ -20,7 +20,7 @@
   /* Dark section - text color */
   --section-dark-text-color: var(--section-light-bg-color);
   /* Dark section - background color */
-  --section-dark-bg-color: #E1C699;
+  --section-dark-bg-color: #99a48c;
   /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
   --section-uni-quote: grey;
   /* Light&Dark section `code` a bit darker than 'Light section - background color' */
@@ -35,6 +35,10 @@
   /* define list element for unnumbered lists, leave empty for default list element */
   --ul-li-icon: fa-asterisk; }
 
+@font-face {
+  font-family: FiveMinutes;
+  src: url("../images/FiveMinutes.otf") format("opentype"); }
+
 body {
   --color-text: var(--section-light-text-color);
   --color-background: var(--section-light-bg-color); }
@@ -42,7 +46,7 @@ body {
 /* ===== Cover =======*/
 #blog-logo {
   display: block;
-  max-height: 100px;
+  max-height: 300px;
   width: auto;
   margin: 0 auto;
   line-height: 0; }
@@ -52,6 +56,7 @@ body {
   background: var(--section-light-bg-color) no-repeat center center; }
 
 #site-head, #site-head.withCenteredImage {
+  font-family: 'FiveMinutes';
   position: relative;
   display: table;
   width: 100%;
@@ -83,13 +88,14 @@ body {
     margin: 10px 0 10px 0;
     font-size: 5rem;
     letter-spacing: -1px;
+    font-family: "FiveMinutes", sans-serif;
     text-shadow: var(--cover-title-text-shadow); }
   #site-head .blog-description, #site-head.withCenteredImage .blog-description {
     margin: 0;
     font-size: 2.5rem;
     line-height: 1.5em;
-    font-weight: 400;
-    font-family: "Roboto Slab", serif;
+    font-family: FiveMinutes;
+    src: url("../images/FiveMinutes.otf") format("opentype");
     letter-spacing: 0;
     text-shadow: var(--cover-title-text-shadow); }
   #site-head a.btn, #site-head.withCenteredImage a.btn {
@@ -99,7 +105,7 @@ body {
     border-radius: 6px;
     -webkit-border-radius: 6px;
     display: inline-block;
-    font-size: 16px;
+    font-size: 20px;
     letter-spacing: 1px;
     margin: 0;
     overflow: visible;
@@ -107,7 +113,7 @@ body {
     position: relative;
     margin-top: 2rem;
     cursor: pointer;
-    font-family: "Oswald", sans-serif;
+    font-family: "FiveMinutes", sans-serif;
     text-transform: uppercase;
     font-weight: lighter; }
     #site-head a.btn:hover, #site-head.withCenteredImage a.btn:hover {

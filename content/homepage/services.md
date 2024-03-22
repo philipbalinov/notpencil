@@ -1,29 +1,19 @@
 ---
-title: "The Services I Offer"
-header_menu_title: "Services"
-navigation_menu_title: "My Services"
+title: "Активности"
+header_menu_title: "Активности"
+navigation_menu_title: "Активности"
 weight: 2
 header_menu: true
 ---
 
-Feature notice: This section displays options to customize title:
-- has a normal section title (`title` = "The Services I Offer"),
-- custom welcome screen title (`header_menu_title` = "Services"),
-- custom navigation menu title (`navigation_menu_title` = "My Services").
+![Активности](images/services.jpg)
+Това което се случва e:
+- семинари
+- работилници
+- детски занимания 
+- детски активности и забавления
+- партита за рожден ден
+- погачи, юбилеи и тн
+- наемане на зала
 
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
-
----
-
-### Nutrition Coaching
-
-This is not an easy task. 
-You will likely have to pay money for this.
-
-### Chef Consulting
-
-I can raise your table culture!
-
-![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
-
-Want to learn more about my services? See [dedicated page](services) with more details.
+Можете да следите актуалните ни активност тук - https://www.facebook.com/club.pasteli

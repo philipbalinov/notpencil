@@ -1,6 +1,6 @@
 ---
 # Striking header background image, Ideal images are homogenous around the centre and contrasting to the text. Non-ideal images can use `title_guard`
-header_image: "images/cover.png"
+header_image: "images/notwabbit.png"
 #
 # When set true, uses video from custom_header_video.html partial, instead of header_image
 header_use_video: false
@@ -9,8 +9,8 @@ header_use_video: false
 header_logo: "images/pasteli.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Пространство за деца и родители"
-header_subheadline: "<b>Вашият</b> консултант и <b>наръчник</b> за отглеждане на деца"
+header_headline: "Шарено пространство за деца и възрастни"
+header_subheadline: "<b></b>Тук е правилното място за вашите деца"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
