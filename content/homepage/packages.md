@@ -13,4 +13,4 @@ header_menu: true
 
 Пакети: 
 
-- [стандартен пакет](https://drive.google.com/file/d/1XgWlrK-ymaGrz-dOFc8n5znJaZ0eaPr_/view?usp=sharing)
+- [списък с пакети за рожден ден](https://drive.google.com/file/d/1YP-g2zRHGDpcM1UpWX3eV0JxYKOHtb0I/view?usp=sharing)
